@@ -11,7 +11,7 @@ public class Exercise02 {
         System.out.println("Area: " + a);
 
         // Fórmula de la longitud de una circunferencia: l = 2 * radio * Número PI
-        l = 2 * r * Math.Pi;
+        l = 2 * r * Math.PI;
         System.out.println("Longitud:  " + l);
 
 
